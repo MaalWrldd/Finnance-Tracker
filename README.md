@@ -1,2 +1,2 @@
 # Finnance-Tracker
-Here is my Finnance Tracker that I built for my Introduction to Python Class. The Purpose of this project was to create a Finnance Tracker to help keep track of your income and expenses.
+This project consists of Python code used to create my first-ever project, a Finance Tracker. It is used to help manage daily transactions with details such as dates and amounts within the transactions. Users can also filter their finances and edit or delete them.
